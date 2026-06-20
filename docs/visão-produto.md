@@ -3,9 +3,9 @@
 Sistema de Gestão de Sala de Aula Online.
 
 ## Integrantes
-- Pedro
-- Fulano
-- Ciclano
+- Estevam
+- Lariane
+- Pedro Henrique
 
 ## Objetivo
 Centralizar a gestão de turmas, atividades e avaliações.
