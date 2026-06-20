@@ -1,26 +1,21 @@
-Sistema: EduClass
+# EduClass
 
-Visão do Produto
-Problema
+Sistema de Gestão de Sala de Aula Online.
 
-Muitas instituições utilizam ferramentas dispersas para compartilhar materiais, receber atividades, lançar notas e comunicar-se com os alunos, dificultando a gestão das turmas.
+## Integrantes
+- Pedro
+- Fulano
+- Ciclano
 
-Público-Alvo
-Professores
-Estudantes
-Coordenadores
-Administradores
-Objetivos
+## Objetivo
+Centralizar a gestão de turmas, atividades e avaliações.
 
-Centralizar em uma única plataforma:
+## Estrutura
+- Documentação
+- BPMN
+- UML
+- Modelo C4
+- Apresentação
 
-gerenciamento de turmas;
-publicação de conteúdos;
-entrega de atividades;
-avaliações;
-comunicação entre usuários.
-Benefícios
-Maior organização acadêmica;
-Redução do uso de múltiplas plataformas;
-Facilidade de acompanhamento do desempenho dos alunos;
-Comunicação mais eficiente.
+## Funcionalidade Inovadora
+Assistente IA de Estudos
