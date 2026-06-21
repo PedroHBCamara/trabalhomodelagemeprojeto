@@ -1,4 +1,4 @@
-# EduClass
+  # SmartlClass
 
 Sistema de Gestão de Sala de Aula Online.
 
