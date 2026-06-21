@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-O sistema **EduClass** foi projetado utilizando uma **Arquitetura em Camadas (Layered Architecture)**, visando simplicidade, manutenibilidade, segurança e facilidade de evolução.
+O sistema **SmartClass** foi projetado utilizando uma **Arquitetura em Camadas (Layered Architecture)**, visando simplicidade, manutenibilidade, segurança e facilidade de evolução.
 
 Essa abordagem foi escolhida por atender adequadamente às necessidades do domínio educacional, permitindo a separação clara das responsabilidades e facilitando futuras expansões do sistema.
 
@@ -218,4 +218,4 @@ Separar essa responsabilidade reduz o acoplamento entre componentes.
 
 # Conclusão
 
-A arquitetura proposta atende aos requisitos funcionais e não funcionais do EduClass, fornecendo uma base sólida para o desenvolvimento do MVP e para futuras expansões da plataforma. A separação em camadas, associada ao uso de autenticação JWT e serviços desacoplados, garante uma solução organizada, segura e de fácil manutenção.
+A arquitetura proposta atende aos requisitos funcionais e não funcionais do SmartClass, fornecendo uma base sólida para o desenvolvimento do MVP e para futuras expansões da plataforma. A separação em camadas, associada ao uso de autenticação JWT e serviços desacoplados, garante uma solução organizada, segura e de fácil manutenção.
